@@ -1,1 +1,4 @@
 # Roboshop
+
+
+learn shell
